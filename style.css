@@ -315,32 +315,32 @@ main .container .left .profile {
 }
 
 .middle .stories .story:nth-child(1) {
-    background: url("./sugam\ 2\ .jpg")
+    background: url("./image/sugam\ 2\ .jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(2) {
-    background: url("./Kishore\ 2.jpg")
+    background: url("./image/Kishore\ 2.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(3) {
-    background: url("./princss-shree\ 2.jpg")
+    background: url("./image/princss-shree\ 2.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(4) {
-    background: url("kiran.jpg")
+    background: url("./image/kiran.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(5) {
-    background: url("./sinhga\ 2.jpg")
+    background: url("./image/sinhga\ 2.jpg")
     no-repeat center center/cover;
 }
 
 .middle .stories .story:nth-child(6) {
-    background: url("./ipsita\ 2.jpg")
+    background: url("./image/ipsita\ 2.jpg")
     no-repeat center center/cover;
 }
 
